@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Don't tread on the grass where the fireflies died last night.
